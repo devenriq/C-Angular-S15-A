@@ -5,5 +5,5 @@ import { Component } from '@angular/core';
   templateUrl: './two-way.component.html',
 })
 export class TwoWayComponent {
-
+  nombre:string='hola'
 }
